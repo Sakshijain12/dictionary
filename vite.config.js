@@ -3,7 +3,7 @@ import path from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "",
+  base: "/dictionary/",
   root: path.join(__dirname, "src"),
   build: {
     outDir: path.join(__dirname, "dist"),

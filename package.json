@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jefcooper/fem-dictionary-web-app.git"
+    "url": "git+https://github.com/Sakshijain12/dictionary.git"
   },
   "author": "Jeff Cooper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jefcooper/fem-dictionary-web-app/issues"
+    "url": "https://github.com/Sakshijain12/dictionary/issues"
   },
-  "homepage": "https://github.com/jefcooper/fem-dictionary-web-app#readme",
+  "homepage": "https://github.com/Sakshijain12/dictionary#readme",
   "devDependencies": {
     "glob": "^8.0.3",
     "path": "^0.12.7",
