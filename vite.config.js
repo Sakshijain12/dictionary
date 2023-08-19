@@ -9,7 +9,7 @@ export default defineConfig({
     outDir: path.join(__dirname, "dist"),
     emptyOutDir: true,
     rollupOptions: {
-      input: glob.sync(path.resolve(__dirname, "src", "*.html")),
+      input: 'src/index.html', // Adjust the path based on your app's entry point
     },
     sourcemap: true,
   },
